@@ -16,7 +16,7 @@ SPDX-License-Identifier: EUPL-1.2
   </parent>
   <groupId>se.digg</groupId>
   <artifactId>wallet-attestation-issuer</artifactId>
-  <version>0.3.1</version>
+  <version>0.3.2</version>
   <name>wallet-attestation-issuer</name>
   <description>Backend service for issuing of wallet attestations</description>
   <url />
